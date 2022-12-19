@@ -7,9 +7,11 @@
     color: #2c323d;
 }
 .two{
+    max-width: 800px;
     background-color: rgb(255, 239, 193);
 }
 h1{
+    max-width: 800px;
     margin: 0;
     background-color: #582212;
     text-align: center;
@@ -17,6 +19,7 @@ h1{
     color: white;
 }
 h2{
+    max-width: 800px;
     margin: 0;
     background-color: #582212;
     text-align: center;
@@ -24,27 +27,33 @@ h2{
     color: white;
 }
 ul{
+    max-width: 800px;
     padding: 10px 0px;
     margin: 0;
     line-height: 2;
 }
 ol{
+    max-width: 800px;
     padding: 10px 10px;
     margin: 0;
     line-height: 2;
 }
 p{
+    max-width: 800px;
     padding: 10px 10px 0 10px;
     margin: 0;
     line-height: 2;
 }
 .column{
+    max-width: 800px;
     display: flex;
 }
 .biryani{
+    max-width: 800px;
     display: flex;
 }
 img{
+    max-width: 800px;
     margin: auto auto;
     padding: 0;
 }
