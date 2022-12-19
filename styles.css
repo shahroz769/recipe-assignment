@@ -36,6 +36,8 @@ ul{
     line-height: 2;
 }
 ol{
+    text-align: justify;
+    text-justify: inter-word;
     padding: 10px 50px;
     margin: 0;
     line-height: 2;
